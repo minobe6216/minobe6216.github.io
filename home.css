@@ -1,0 +1,32 @@
+html {
+    padding: 25px 350px;
+}
+body {
+    background-color: white;
+    background-image: linear-gradient(deepskyblue, violet);
+}
+ul {
+    text-align: center;
+    font-size: 150%;
+}
+h1 {
+    font-family: "monospace","Comic Sans MS", serif;
+    text-align: center;
+}
+h2{
+    font-family: "monospace","Comic Sans MS", serif;
+}
+h3{
+    font-family: "monospace","Comic Sans MS", serif;
+    color: black;
+}
+
+p.p1{
+    text-align:center
+}
+p {
+    font-family: "monospace","Comic Sans MS", serif;
+}
+
+
+
