@@ -1,1 +1,0 @@
-# minobe6216.github.io
